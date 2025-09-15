@@ -37,7 +37,7 @@
 ---
 
 ## 🌐 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/kaustubh_labade)  
+- 💼 [LinkedIn](https://www.linkedin.com/kaustubh-labade/)  
 - 📧 kaustubhlabade10@gmail.com  
 
 ---
