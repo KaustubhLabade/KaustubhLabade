@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kaustubh Vijay Labade  
+## 👋 Hi, I'm Kaustubh Vijay Labade  
 
 🚀 Software Engineer | 📱 Mobile & Web Developer | ☁️ AWS & DevOps Enthusiast | 🔗 Exploring Blockchain  
 
@@ -37,9 +37,8 @@
 ---
 
 ## 🌐 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 🐦 [Twitter](https://twitter.com/)  
-- 📧 kaustubh.labade@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/kaustubh_labade)  
+- 📧 kaustubhlabade10@gmail.com  
 
 ---
 
